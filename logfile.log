@@ -1,0 +1,20 @@
+2021-09-29 20:59:53,424 INFO  [Log] https://www.gittigidiyor.com/ adresine gidildi. 
+2021-09-29 20:59:53,565 INFO  [Log] By.xpath: //div[@class="gekhq4-4 egoSnI" and text()="Giriş Yap"]Elementine hover olundu 
+2021-09-29 20:59:55,238 INFO  [Log] By.xpath: //a[@data-cy="header-login-button"] elementine tıklandı. 
+2021-09-29 20:59:55,431 INFO  [Log] By.id: L-UserNameField elementine beyza.coskun025@gmail.com texti yazıldı. 
+2021-09-29 20:59:55,591 INFO  [Log] By.id: L-PasswordField elementine Beyzagitti34 texti yazıldı. 
+2021-09-29 20:59:57,300 INFO  [Log] By.id: gg-login-enter elementine tıklandı. 
+2021-09-29 20:59:57,301 INFO  [Log] Kullanıcı ve sifre yazıldı 
+2021-09-29 21:00:08,128 INFO  [Log] By.xpath: //input[@data-cy="header-search-input"] elementine bilgisayar texti yazıldı. 
+2021-09-29 21:00:11,805 INFO  [Log] By.cssSelector: button[data-cy="search-find-button"] elementine tıklandı. 
+2021-09-29 21:00:18,909 INFO  [Log] By.xpath: (//ul//article[@data-cy="product-card-item"]/parent::li)[15] elementine tıklandı. 
+2021-09-29 21:00:18,909 INFO  [Log] İkinci sayfadaki 15. ürüne tıklandı 
+2021-09-29 21:00:18,945 INFO  [Log] Ürünün fiyatı: 3.297,00 TL 
+2021-09-29 21:00:19,228 INFO  [Log] By.cssSelector: button#add-to-basket elementine tıklandı. 
+2021-09-29 21:00:20,434 INFO  [Log] By.xpath: //a[@href="https://www.gittigidiyor.com/sepetim"][@class="dIB"] elementine tıklandı. 
+2021-09-29 21:00:20,495 INFO  [Log] Sepetim sayfasına gidildi. 
+2021-09-29 21:00:20,624 INFO  [Log] Ürünün fiyatı: 3.297,00 TL 
+2021-09-29 21:00:20,624 INFO  [Log] Ürünün sepetteki fiyatı: 3.297,00 TL 
+2021-09-29 21:00:21,839 INFO  [Log] Ürün adedi 2 olarak seçildi 
+2021-09-29 21:00:21,922 INFO  [Log] By.cssSelector: div.update-buttons-container i.gg-icon-bin-medium elementine tıklandı. 
+2021-09-29 21:00:27,390 INFO  [Log] Ürün sepetten silindi 
