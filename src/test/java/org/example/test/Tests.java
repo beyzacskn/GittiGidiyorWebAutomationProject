@@ -24,7 +24,7 @@ public class Tests extends BaseTest {
         homePage.navigateHomePage();
         homePage.clickLoginButton();
         loginPage.LoginPageControl();
-        loginPage.validLogin("beyza.coskun025@gmail.com","Beyzagitti34");
+        loginPage.validLogin("testd7258@gmail.com","deneme1");
         Thread.sleep(10000);
         homePage.searchProduct("bilgisayar");
         homePage.clickSecondProductPageAndControl();
